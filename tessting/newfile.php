@@ -1,7 +1,7 @@
 <html>
 <body>
 <?php
-	echo "hello";
+	echo "hello mother fucker";
 ?>
 </body>
 </html>
